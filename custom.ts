@@ -12,10 +12,12 @@ enum MyEnum {
 }
 
 /**
- * Custom blocks
+ * Custom blocks in another language
+ * to get icons go to https://fontawesome.com/ and choose a icon, click copy glyph on top right of 
+ * box to get image and paste below
  */
-//% weight=100 color=#0fbc11 icon=""
-namespace custom {
+//% weight=150 color=#0fbc11 icon=""
+namespace customname {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
@@ -46,3 +48,5 @@ namespace custom {
         return value <= 1 ? value : fib(value -1) + fib(value - 2);
     }
 }
+
+

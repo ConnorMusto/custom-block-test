@@ -1,3 +1,4 @@
 basic.forever(function () {
-    custom.HelloWorld()
+    customname.HelloWorld()
+    basic.showNumber(3)
 })
