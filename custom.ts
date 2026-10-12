@@ -28,6 +28,16 @@ namespace custom {
     }
 
     /**
+         * TODO: describe your function here
+         */
+    //% block
+    export function HelloWorld(): void {
+        // Add code here
+        basic.showString("Hello World!")
+    }
+
+
+    /**
      * TODO: describe your function here
      * @param value describe value here, eg: 5
      */
