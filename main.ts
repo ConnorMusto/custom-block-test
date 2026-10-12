@@ -1,4 +1,4 @@
 basic.forever(function () {
-    customname.HelloWorld()
+    XSTREAM.Comment("hello World", false)
     basic.showNumber(3)
 })
